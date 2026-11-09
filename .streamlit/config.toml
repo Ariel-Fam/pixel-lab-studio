@@ -1,0 +1,6 @@
+[theme]
+primaryColor = "#0A678C"         # The blue color
+backgroundColor = "#173D2D"      # The green color
+secondaryBackgroundColor = "#06425C"  # Navy blue side panel
+textColor = "#FFFFFF"            # White text
+font = "sans serif"
